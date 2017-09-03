@@ -4,4 +4,6 @@ This little repo on the web will serve as a way for me to keep track of my under
 
 Please refer to this repo's wiki for self-study questions and answers.
 
-A big thank you to [@vanillajsrules](https://twitter.com/vanillajsrules) for providing these questions!
+A big thank you to [@stephenthecurt](https://twitter.com/stephenthecurt) for providing these questions & guiding me along the way!
+
+You can find the list of questions in this repo's wiki, or --> [Fundamentals Every JavaScript Developer Should Know](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
